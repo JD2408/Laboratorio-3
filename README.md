@@ -35,7 +35,19 @@
  
  *Procedimiento del Simulador*
  *Procedimiento del cálculo*
+ 
+  1. Tedremos que diferenciar entre nodos los nodos principales cual es nuestro nodo de referencia, una vez entendido eso, definimos por la LCK las ecuaciones bases. 
   
+ ![image](https://user-images.githubusercontent.com/93794279/143958945-77e1ccaf-bb4b-49bb-874d-1d43d9479eb6.png)
+ 
+  2. Ahora calculamos las ecuaciones para cada intensidad de las ecuaciones bases.
+ 
+  ![image](https://user-images.githubusercontent.com/93794279/143959291-b3862ed0-0efe-436d-9fb6-23fbc0f79267.png)
+
+![image](https://user-images.githubusercontent.com/93794279/143959577-cfaaa6fc-476c-4cce-9742-f47d565c3ece.png)
+
+  ![image](https://user-images.githubusercontent.com/93794279/143959520-c3c74f0e-213d-45d4-aa7e-90f01c1d8f03.png)
+
   ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 ***Tabla 1***
 
