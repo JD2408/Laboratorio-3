@@ -48,6 +48,13 @@
 
   ![image](https://user-images.githubusercontent.com/93794279/143959520-c3c74f0e-213d-45d4-aa7e-90f01c1d8f03.png)
 
+![image](https://user-images.githubusercontent.com/93794279/143959829-f8674882-50a8-41c9-8272-b73fe2ebb15f.png)
+
+![image](https://user-images.githubusercontent.com/93794279/143959762-1fc854a9-ab64-49f9-9637-3c96f744b3c8.png)
+
+![image](https://user-images.githubusercontent.com/93794279/143959944-81c1c4f5-05e1-41f3-88bb-83fe73e5edef.png)
+
+
   ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 ***Tabla 1***
 
