@@ -50,7 +50,7 @@
 
 ![image](https://user-images.githubusercontent.com/93794279/143959829-f8674882-50a8-41c9-8272-b73fe2ebb15f.png)
 
-![image](https://user-images.githubusercontent.com/93794279/143959762-1fc854a9-ab64-49f9-9637-3c96f744b3c8.png)
+![image](https://user-images.githubusercontent.com/93794279/143967311-bea0d955-3934-45ce-bd77-58fb70b0097f.png)
 
 ![image](https://user-images.githubusercontent.com/93794279/143965463-d7600459-ab2a-4cf2-8d96-505a8f98432a.png)
 
@@ -64,6 +64,8 @@
 
  5. Reemplazamos lo valroes obtenido en las ecuaciones para encontrar cada incognita de corriente.
   
+![image](https://user-images.githubusercontent.com/93794279/143967126-fabb6c9a-1d38-4467-ad71-4f5752d3c8c7.png)
+
   ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 ***Tabla 1***
 
