@@ -56,11 +56,11 @@
 
  3. Reeemplar los valores obtenidos en los ateriores calculos.
 
-![image](https://user-images.githubusercontent.com/93794279/143960355-e92fc7b5-5981-4754-9885-c63b7c9220b6.png)
+![image](https://user-images.githubusercontent.com/93794279/143965225-2a1f53d1-f9a7-4462-a35f-7fec4d5bc51f.png)
 
  4. Resolvemos el sistema de ecuaciones mediante symbolab.
  
- ![image](https://user-images.githubusercontent.com/93794279/143960497-e3d5bce7-ea2d-40e2-b589-3fcf98e81f56.png)
+![image](https://user-images.githubusercontent.com/93794279/143965251-ff7d1a68-94a2-4193-87c2-135ae4d833d5.png)
 
  5. Reemplazamos lo valroes obtenido en las ecuaciones para encontrar cada incognita de corriente.
   
