@@ -68,6 +68,7 @@
 
   ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 ***Tabla 1***
+
 ![image](https://user-images.githubusercontent.com/94129932/143973131-572ae7f4-b1d7-4dbb-b9d7-910ff3b9d145.png)
 
 ***Tabla 2***
@@ -77,6 +78,7 @@
 
 ***Tabla 3***
 *Simulado*
+
 ![image](https://user-images.githubusercontent.com/94129932/143973030-0efb113d-fa46-4929-8bc6-b48ca452ea91.png)
 
 ***Cálculo de Error***
