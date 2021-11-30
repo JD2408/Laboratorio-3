@@ -33,6 +33,23 @@
  
  *Procedimiento Experimental*
  
+ [![Imagen1.png](https://i.postimg.cc/J44Jtmbw/Imagen1.png)](https://postimg.cc/dDpDSbHn)
+ 
+ primero se ponen todos los componentes con su respectivas medidas las 5 resistencias, las dos fuentes de poder con el respectivo voltaje, el protoboard y el multimetro
+ 
+ [![Imagen2.png](https://i.postimg.cc/HscY6hmc/Imagen2.png)](https://postimg.cc/2VYN6TVr)
+ 
+ a continuacion se ponen las resistencias de manera respectiva a como nos pide el diagrama
+ 
+ [![Imagen3.png](https://i.postimg.cc/L4q5WXB8/Imagen3.png)](https://postimg.cc/V58zrzVx)
+ 
+ procedemos a conectar las fuentes de poder, al lado izquierdo la que cuenta con 12 volts y al lado derecho la de 8 volts
+
+[![Imagen4.png](https://i.postimg.cc/JhnMB6pz/Imagen4.png)](https://postimg.cc/DStt9gV9)
+
+por ultimo para revisar que se encuentre bien hecho el circuito probamos y ya esta listo para proceder con las medidas de voltaje en los nodos
+
+ 
  *Procedimiento del Simulador*
  *Procedimiento del cálculo*
  
