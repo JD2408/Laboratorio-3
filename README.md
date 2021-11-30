@@ -52,7 +52,7 @@
 
 ![image](https://user-images.githubusercontent.com/93794279/143959762-1fc854a9-ab64-49f9-9637-3c96f744b3c8.png)
 
-![image](https://user-images.githubusercontent.com/93794279/143959944-81c1c4f5-05e1-41f3-88bb-83fe73e5edef.png)
+![image](https://user-images.githubusercontent.com/93794279/143965463-d7600459-ab2a-4cf2-8d96-505a8f98432a.png)
 
  3. Reeemplar los valores obtenidos en los ateriores calculos.
 
