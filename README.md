@@ -42,11 +42,11 @@
  
   2. Ahora calculamos las ecuaciones para cada intensidad de las ecuaciones bases.
  
-  ![image](https://user-images.githubusercontent.com/93794279/143959291-b3862ed0-0efe-436d-9fb6-23fbc0f79267.png)
+![image](https://user-images.githubusercontent.com/93794279/143965596-6a99ac1e-a17d-4daf-be01-ea3b3e46c6b3.png)
 
 ![image](https://user-images.githubusercontent.com/93794279/143959577-cfaaa6fc-476c-4cce-9742-f47d565c3ece.png)
 
-  ![image](https://user-images.githubusercontent.com/93794279/143959520-c3c74f0e-213d-45d4-aa7e-90f01c1d8f03.png)
+ ![image](https://user-images.githubusercontent.com/93794279/143959520-c3c74f0e-213d-45d4-aa7e-90f01c1d8f03.png)
 
 ![image](https://user-images.githubusercontent.com/93794279/143959829-f8674882-50a8-41c9-8272-b73fe2ebb15f.png)
 
