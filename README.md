@@ -102,6 +102,8 @@ por ultimo para revisar que se encuentre bien hecho el circuito probamos y ya es
 
 ## 5. VIDEO
 
+https://youtu.be/-zopiJ3p-1s
+
 ## 6. CONCLUSIONES
 - Concluimos que el análisis de mallas es un método que utiliza la Ley de Voltajes de Kirchhoff para obtener un conjunto de ecuaciones simultáneas que permitan determinar los valores de las corrientes que pasan por las ramas del circuito en estudio.
 - Generalmente para elegir el mejor método suele ser el que tenga menos ecuaciones simultáneas. Si el número de nodos y de mallas son iguales o casi iguales, elige el método que entiendas mejor.
