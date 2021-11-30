@@ -93,7 +93,10 @@
 2. (N.d.). Khanacademy.Org. Retrieved November 29, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
 3. (N.d.-b). Edu.Co. Retrieved November 29, 2021, from http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
 ## 8. ANEXOS
+Anexo1: Simulación de intensidades en los nodos A y B
 ![image](https://user-images.githubusercontent.com/94129932/143972600-6f85c77b-9d64-42cc-ba17-f3ec808eb006.png)
+
+Anexo2: Simulación de voltajes en los nodos A y B
 ![image](https://user-images.githubusercontent.com/94129932/143972854-59b08c11-de56-4804-bcd7-c09b0ff83048.png)
 
 
