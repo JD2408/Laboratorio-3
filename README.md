@@ -98,7 +98,6 @@ por ultimo para revisar que se encuentre bien hecho el circuito probamos y ya es
 
 ![image](https://user-images.githubusercontent.com/94129932/143973030-0efb113d-fa46-4929-8bc6-b48ca452ea91.png)
 
-***Cálculo de Error***
 
 ## 5. VIDEO
 
