@@ -68,9 +68,16 @@
 
   ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 ***Tabla 1***
+![image](https://user-images.githubusercontent.com/94129932/143973131-572ae7f4-b1d7-4dbb-b9d7-910ff3b9d145.png)
+
+***Tabla 2***
 *Analítico*
 
 ![image](https://user-images.githubusercontent.com/93794279/143968136-d227ea3e-a761-4b45-830c-a43303f2a754.png)
+
+***Tabla 3***
+*Simulado*
+![image](https://user-images.githubusercontent.com/94129932/143973030-0efb113d-fa46-4929-8bc6-b48ca452ea91.png)
 
 ***Cálculo de Error***
 
@@ -83,5 +90,8 @@
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
 2. (N.d.). Khanacademy.Org. Retrieved November 29, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
 3. (N.d.-b). Edu.Co. Retrieved November 29, 2021, from http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
+## 8. ANEXOS
+![image](https://user-images.githubusercontent.com/94129932/143972600-6f85c77b-9d64-42cc-ba17-f3ec808eb006.png)
+![image](https://user-images.githubusercontent.com/94129932/143972854-59b08c11-de56-4804-bcd7-c09b0ff83048.png)
 
 
